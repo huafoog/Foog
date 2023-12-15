@@ -1,0 +1,17 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/src/.vs
+/src/Foog.Api/bin/Debug/net8.0
+/src/Foog.Api/obj
+/src/Foog.Application/Foog.Application/bin/Debug/net8.0
+/src/Foog.Application/Foog.Application/obj
+/src/Foog.Core/Foog.Core/bin/Debug/net8.0
+/src/Foog.Core/Foog.Core/obj
+/src/Foog.Data/Foog.Data/bin/Debug/net8.0
+/src/Foog.Data/Foog.Data/obj
+/src/Foog.Api/Logs
+/src/Foog.Service/bin/Debug/net8.0
+/src/Foog.Service/obj
